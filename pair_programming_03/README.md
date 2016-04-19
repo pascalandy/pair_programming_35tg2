@@ -8,7 +8,7 @@ This HTML page shall interpret this environment variable set during `docker comp
 3. I'm welling to pay **20$ US** for this task via upwork.com, hackhands.com or Paypal
 4. This request is wide open and the source is available to everyone.
 
-All details here - https://goo.gl/RiAKRV
+All details here - https://github.com/pascalandy/pair_programming_35tg2/tree/master/pair_programming_03
 
 ## Before you start!
 - Don't work for nothing! Officially confirm you take charge by **assigning yourself** into the [appropriate issue](https://github.com/pascalandy/pairing-work/issues/).
@@ -40,13 +40,14 @@ Cheers!
 Pascal
 
 ## My expectations
-- Clone this repo
-- You agree with the fix price mentioned above
-- Fix this request locally
-- Push your work in a new branch (or Gist), or ideally a PR
-- I test it
-- It works :)
-- I pay you :))
+
+Like you prefer:
+A1) Fork this project, and point me to your commits
+or ...
+A2) Push a PR directly in this repo
+
+B) I test it ... it works :)
+C) I pay you :))
 
 ## Communications
 - **Telegram** is my preferred chat platform.
