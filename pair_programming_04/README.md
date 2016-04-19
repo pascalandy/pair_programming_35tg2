@@ -1,5 +1,7 @@
 ## Title
-Setting AWS S3 with my Ghost (blog)
+Help me to setup AWS S3 storage with my Ghost blog
+
+All details here - https://github.com/pascalandy/pair_programming_35tg2/tree/master/pair_programming_04
 
 ## How to quote your price
 
@@ -7,8 +9,6 @@ Setting AWS S3 with my Ghost (blog)
 2. If you know what you are doing, you should resolve this **within 10-20 minutes**.
 3. I'm welling to pay **20$ US** for this task via upwork.com, hackhands.com or Paypal
 4. This request is wide open and the source is available to everyone.
-
-All details here - https://github.com/pascalandy/pair_programming_35tg2/tree/master/pair_programming_04
 
 ## Before you start!
 - Don't work for nothing! Officially confirm you take charge by **assigning yourself** into the [appropriate issue](https://github.com/pascalandy/pairing-work/issues/).
