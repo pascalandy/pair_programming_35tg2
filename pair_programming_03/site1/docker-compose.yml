@@ -1,0 +1,19 @@
+version: "2"
+
+services:
+  ngx-static:
+    container_name: site1
+    env_file:
+        - ./ngx-static.env
+    image: nginx:1.8.1
+    volumes:
+      - "./ngx-static/configs/ngx-html.conf/:/etc/nginx/conf.d/default.conf"
+      - "./ngx-static/www/:/usr/share/nginx/html:ro"
+    restart: always
+    networks:
+      - spring
+
+networks:
+  spring:
+    external:
+      name: spring-ntwk
