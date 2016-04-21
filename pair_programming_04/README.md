@@ -1,7 +1,17 @@
 ## Title
 Help me to setup AWS S3 storage with my Ghost blog
 
-All details here - https://github.com/pascalandy/pair_programming_35tg2/tree/master/pair_programming_04
+## Details about this request
+
+First consider this as a pair programming gig :) I'm using docker-compose v2 with many components like nginx reverse proxy, discovery services (without hard coded IP or Ports), PostgreSQL, Logentries, Load balancers all running remotely into containers. I'm not a newbie and you might as well learn from me :)
+
+***
+
+Here is a screen cast (56 sec) about the setup http://jmp.sh/uyhocJC. 
+
+I pretty sure I have an issue with my AWS config so we will do this in real time over TeamViewer. All details here - https://github.com/pascalandy/pair_programming_35tg2/tree/master/pair_programming_04
+
+Thank you!
 
 ## How to quote your price
 
@@ -13,19 +23,6 @@ All details here - https://github.com/pascalandy/pair_programming_35tg2/tree/mas
 ## Before you start!
 - Don't work for nothing! Officially confirm you take charge by **assigning yourself** into the [appropriate issue](https://github.com/pascalandy/pairing-work/issues/).
 - If you don't do this, you may work on the same issue as someone else at the same time! I can't pay for this miscommunication. You'll have been warned. :)
-
-## Details about this request
-
-First consider this as a pair programming gig :) I'm using docker-compose v2 with many components like nginx reverse proxy, discovery services (without hard coded IP or Ports), PostgreSQL, Logentries, Load balancer all running remotly into containers. I'm not a newbie and you might as well learn from me :)
-
-***
-
-Here is a screen cast (56 sec) about the setup http://jmp.sh/uyhocJC. 
-
-I pretty sure I have an issue with my AWS config so we will do this in real time over TeamViewer. 
-
-Cheers!
-Pascal
 
 ## My expectations
 
