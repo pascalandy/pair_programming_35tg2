@@ -6,7 +6,7 @@ All detail: https://github.com/pascalandy/pair_programming_35tg2/tree/master/pai
 
 Here is a screen cast (56 sec) about the setup http://jmp.sh/uyhocJC.
 
-My server which is hosting the blog is NOT on AWS. My blog is running smoothly except the S3 component set up for uploading images from my Ghost blog. 
+The server is that host the blog is NOT running on AWS. My blog is running smoothly. Except the AWS S3 component set up for uploading images from my Ghost blog. 
 
 I understand there is configs for the IAM + S3 bucket. Again the picture are uploaded on S3 but do not appears back in the blog. I pretty sure I have an issue with my AWS config so we will do this in real time over TeamViewer.
 
