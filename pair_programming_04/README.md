@@ -12,7 +12,7 @@ I understand there is configs for the IAM + S3 bucket. Again the picture are upl
 
 **Requirement 01**) As a user I should be able to upload picture normally. (under the hood it's in s3)
 
-**Requirement 02**) Have this site uploading into a folder. I don't want to create a new bucket for each sites.
+**Requirement 02**) Have this site uploading into a folder (site-01). I don't want to create a new bucket for each sites. So I'll be able to have a second site and upload it's content into site-02 folder in S3.
 
 ### About me
 Consider this task as a pair programming gig :) I’m working as a DevOps engineer using Docker, components like nginx reverse proxy, discovery services, PostgreSQL, Logentries, Load balancers all running remotely into containers. I’m not a newbie and you might as well learn from me too. :)
