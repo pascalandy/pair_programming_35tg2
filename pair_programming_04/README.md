@@ -6,11 +6,9 @@ All detail: https://github.com/pascalandy/pair_programming_35tg2/tree/master/pai
 
 Here is a screen cast (56 sec) about the setup http://jmp.sh/uyhocJC.
 
-My server which is hosting the blog is NOT on AWS ! Everything runs smoothly except this S3 component set up for uploading images from my Ghost blog. I understand there is configs for the IAM + S3 bucket. Again the picture are uploaded on S3 but do not appears back in the blog.
+My server which is hosting the blog is NOT on AWS. My blog is running smoothly except the S3 component set up for uploading images from my Ghost blog. 
 
-I pretty sure I have an issue with my AWS config so we will do this in real time over TeamViewer.
-
-Thank you!
+I understand there is configs for the IAM + S3 bucket. Again the picture are uploaded on S3 but do not appears back in the blog. I pretty sure I have an issue with my AWS config so we will do this in real time over TeamViewer.
 
 ### About me
 Consider this task as a pair programming gig :) I'm woorking as a DevOps enginer using Docker, components like nginx reverse proxy, discovery services, PostgreSQL, Logentries, Load balancers all running remotely into containers. I'm not a newbie and you might as well learn from me too :)
@@ -38,5 +36,5 @@ Consider this task as a pair programming gig :) I'm woorking as a DevOps enginer
 - I avoid Skype
 - If you'd like, find me on [Twitter](https://twitter.com/_pascalandy)
 
-Cheers!
+Thank for your time!
 Pascal
