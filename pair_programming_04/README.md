@@ -10,6 +10,10 @@ The server is that host the blog is NOT running on AWS. My blog is running smoot
 
 I understand there is configs for the IAM + S3 bucket. Again the picture are uploaded on S3 but do not appear back in the blog. I pretty sure I have an issue with my AWS config so we will do this in real time over TeamViewer.
 
+**Requirement 01**) As a user I should be able to upload picture normally. (under the hood it's in s3)
+
+**Requirement 02**) Have this site uploading into a folder. I don't want to create a new bucket for each sites.
+
 ### About me
 Consider this task as a pair programming gig :) I’m working as a DevOps engineer using Docker, components like nginx reverse proxy, discovery services, PostgreSQL, Logentries, Load balancers all running remotely into containers. I’m not a newbie and you might as well learn from me too. :)
 
