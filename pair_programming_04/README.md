@@ -27,13 +27,9 @@ Thank you!
 - If you don't do this, you may work on the same issue as someone else at the same time! I can't pay for this miscommunication. You'll have been warned. :)
 
 ## My expectations
-Like you prefer:
-- A1) Fork this project, and point me to your commits
-- or ...
-- A2) Push a PR directly in this repo
-
-- B) I test it ... it works :)
-- C) I pay you :))
+1. Fork this project and point me to your commits or ... PR directly in this repo
+2. I test it ... it works :)
+3. I pay you :))
 
 ## Communications
 - **Telegram** is my preferred chat platform.
